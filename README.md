@@ -54,7 +54,7 @@ This dashboard analyzes a workforce of **1,470 employees**, providing a 360° vi
 
 ## 📷 Dashboard Preview
 
-*(Add a screenshot of your dashboard here)*
+![Dashboard Preview])
 
 ---
 
