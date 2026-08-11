@@ -54,7 +54,7 @@ This dashboard analyzes a workforce of **1,470 employees**, providing a 360° vi
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview])
+![Dashboard Preview](https://github.com/SeemakurthiGirish/HR-ANALYTICS-DASHBOARD/blob/main/HR%20Dashboard.png)
 
 ---
 
